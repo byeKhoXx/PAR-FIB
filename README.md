@@ -1,4 +1,5 @@
 # Paral·lelisme | FIB (Q1 2019/20)
+Practiques realitzades amb Eloi Cruz
 + Teoria -> 70%
 + Laboratori -> 30% (9,7)
   - [Practica 1](Practica1Grup1305.pdf)-> 1,5 pts (1,4 pts)
